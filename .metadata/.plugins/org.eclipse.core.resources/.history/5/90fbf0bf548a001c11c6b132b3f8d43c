@@ -1,0 +1,7 @@
+//ServiceResult.java
+
+package com.hiseoul.ml.enumpkg;
+
+public enum ServiceResultv{
+		OK, FAIL, NOTEEXIST, HASCHILD
+}

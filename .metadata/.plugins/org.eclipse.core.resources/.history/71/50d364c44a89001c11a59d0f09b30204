@@ -1,0 +1,8 @@
+//BoardService
+
+package com.hiseoul.ml.service;
+
+import com.hiseoul.ml.model.Board;
+import com.hiseoul.ml.model.Result;
+
+public interface BoardService{protected Object clone() throws CloneNotSupportedException {};

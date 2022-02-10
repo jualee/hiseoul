@@ -1,0 +1,6 @@
+#### application.properties
+
+spring.datasource.url=jdbc:postgersql://localhost:5444/hiseoul
+spring.datasource.username=tfms
+spring.datasource.password=new1234!
+spring.mvc.hiddenmethod.filter.enabled=true
